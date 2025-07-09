@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\homework1\\Snack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A79E637-9CF6-47CC-B996-35C6B4320821}|Snack\\Snack.vcxproj|D:\\github\\homework1\\Snack\\Snack\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A79E637-9CF6-47CC-B996-35C6B4320821}|Snack\\Snack.vcxproj|solutionrelative:Snack\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "D:\\github\\homework1\\Snack\\Snack\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snack\\Snake.cpp",
+              "ToolTip": "D:\\github\\homework1\\Snack\\Snack\\Snake.cpp",
+              "RelativeToolTip": "Snack\\Snake.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T00:40:40.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
